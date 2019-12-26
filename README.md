@@ -1,4 +1,4 @@
-# smalltalk-carmenSandiego
+# carmenSandiego-tdd
 Final project from Object Oriented Programming I
 
 Entirely developed  using [Test Driven Development](https://www.freecodecamp.org/news/test-driven-development-what-it-is-and-what-it-is-not-41fa6bca02a2/).
