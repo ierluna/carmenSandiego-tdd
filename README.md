@@ -1,5 +1,5 @@
 # carmenSandiego-tdd
-Final project from Object Oriented Programming I
+Final project from Object Oriented Programming 1 developed entirely in TDD 
 
 Entirely developed  using [Test Driven Development](https://www.freecodecamp.org/news/test-driven-development-what-it-is-and-what-it-is-not-41fa6bca02a2/).
 
